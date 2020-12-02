@@ -37,11 +37,17 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- thymeleaf -->
+		<!-- freemarker-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+			<artifactId>spring-boot-starter-freemarker</artifactId>
 		</dependency>
+
+<!--		&lt;!&ndash; thymeleaf &ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>org.springframework.boot</groupId>-->
+<!--			<artifactId>spring-boot-starter-thymeleaf</artifactId>-->
+<!--		</dependency>-->
 
 		<!-- database-->
 <!--		<dependency>-->

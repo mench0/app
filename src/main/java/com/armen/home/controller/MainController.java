@@ -1,5 +1,7 @@
-package com.armen.client;
+package com.armen.home.controller;
 
+import com.armen.home.domain.Message;
+import com.armen.home.domain.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -31,6 +33,7 @@ public class MainController {
     public Message getMessage() {
         return new Message("Привет всем!", "01.01.2020 12:00:00");
     }
+
 
 
 }

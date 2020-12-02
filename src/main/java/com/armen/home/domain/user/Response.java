@@ -1,4 +1,4 @@
-package com.armen.user;
+package com.armen.home.domain.user;
 
 
 public class Response {

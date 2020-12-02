@@ -1,4 +1,4 @@
-package com.armen.client;
+package com.armen.home.domain;
 
 import com.fasterxml.jackson.annotation.JsonGetter;
 

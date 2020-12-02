@@ -1,4 +1,4 @@
-package com.armen.client;
+package com.armen.home;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
